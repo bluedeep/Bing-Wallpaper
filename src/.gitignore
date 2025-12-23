@@ -1,0 +1,9 @@
+# Cache
+__pycache__/
+
+.*.swp
+# Temporary files
+_temp/
+./*.txt
+
+!.gitkeep
